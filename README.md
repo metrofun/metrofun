@@ -10,24 +10,24 @@
 Currently building **[Swobu](https://github.com/swobuforge/swobu)** — a local boundary layer that decouples AI clients from any backend.
 
 ### Core Strength
-**I operate across the full depth of the AI stack** — from ML modeling, training and MLOps, through large-scale distributed systems and reliability engineering, down to interface and frontend architecture.
+**I work across the full depth of the AI stack** — from ML modeling, training and MLOps, through large-scale distributed systems and reliability engineering, down to interface and frontend architecture.
 
-This combination comes from 15+ years of hands-on experience:
-- Meta — leading ML initiatives involving multimodal models, LLM agents, ranking
-- Mercedes-Benz & Vay — leading ML teams in autonomous mobility, including spatio-temporal forecasting and rare event prediction.
-- AWS scale work on distributed systems, high-reliability data pipelines
-- Yandex & HERE Maps — high-performance browser maps and large-scale web platforms
+This range comes from 15+ years of building complex systems across multiple layers:
+- **Meta** — leading ML initiatives involving multimodal models, LLM agents and ranking systems.
+- **Mercedes-Benz & Vay** — leading ML teams for robotaxi fleets, including spatio-temporal forecasting and rare event prediction.
+- **AWS** — designing distributed systems and high-reliability data pipelines.
+- **Yandex & HERE Maps** — building high-performance web mapping platforms and large-scale services that served millions of MAU.
 
-This broad depth lets me fluidly connect layers that are usually siloed — moving between model behavior, distributed system trade-offs, and interface realities in the same conversation. It has proven especially effective on complex, cross-functional AI platforms.
+This broad, hands-on experience lets me move fluidly between model behavior, distributed system trade-offs, frontend constraints, and operational realities — often in the same conversation. It becomes particularly valuable when building complex, cross-functional AI platforms where teams are usually siloed.
 
 ---
 
 ### 📬 Open to Conversations
 
-Selective about new opportunities. Particularly interested in **Staff/Principal-level scope**, strong contract work, or founding-team situations in AI infrastructure, agentic systems, developer tools, or complex production ML platforms.
+Selective about new opportunities. Interested in high-impact contract work, advisory roles, or founding situations in AI infrastructure, agentic systems, and complex production ML platforms.
 
 - Email: contact@dmytrii.com
 - LinkedIn: [linkedin.com/in/dmytrii](https://www.linkedin.com/in/dmytrii/)
-- Twitter/X: [@mlpreview](https://twitter.com/mlpreview)
+- Twitter: [@mlpreview](https://twitter.com/mlpreview)
 
 Happy to talk if the problem is genuinely hard and interesting.
