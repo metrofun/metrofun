@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ Dmytrii S.
 
-**Building Swobu | Ex-Meta, Amazon, Yandex
+**Building Swobu | Ex-Meta, Amazon, Yandex**
 </div>
 
 ---
