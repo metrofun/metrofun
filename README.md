@@ -26,7 +26,7 @@ This broad, hands-on experience lets me move fluidly between model behavior, dis
 
 Selective about new opportunities. Interested in high-impact contract work, advisory roles, or founding situations in AI infrastructure, agentic systems, and complex production ML platforms.
 
-- Email: contact@dmytrii.com
+- Email: contact[at]dmytrii.com
 - LinkedIn: [linkedin.com/in/dmytrii](https://www.linkedin.com/in/dmytrii/)
 - Twitter: [@mlpreview](https://twitter.com/mlpreview)
 
