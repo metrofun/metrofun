@@ -9,7 +9,7 @@
 
 Currently building **[Swobu](https://github.com/swobuforge/swobu)** — a local boundary layer that decouples AI clients from any backend.
 
-### Core Strength
+### Aboutn me
 **I work across the full depth of the AI stack** — from ML modeling, training and MLOps, through large-scale distributed systems and reliability engineering, down to interface and frontend architecture.
 
 This range comes from 15+ years of building complex systems across multiple layers:
